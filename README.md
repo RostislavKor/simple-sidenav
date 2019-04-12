@@ -134,7 +134,7 @@ If you don’t want any animations - just pass false into ```[animation]="false"
 | `[activeID]`    | `none`        | ```string```                | Pass an ID of menu item if you want it to be opened by default.                         | `false`|
 
 ## License
-Simple sidenav is Copyright © 2015-2018 Codica. It is released under the [MIT License](https://opensource.org/licenses/MIT).
+Simple sidenav is Copyright © 2015-2019 Codica. It is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## About Codica
 
